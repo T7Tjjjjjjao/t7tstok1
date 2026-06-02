@@ -1,4 +1,4 @@
-discord.py==2.3.2
-‏colorama
-‏requests
-‏aiohttp
+nextcord==2.6.0
+colorama
+requests
+aiohttp
